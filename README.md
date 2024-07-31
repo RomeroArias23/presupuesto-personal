@@ -69,4 +69,4 @@ Proyecto de **administración de presupuesto personal!** Esta API te ayuda a man
 
 ## Pruebas
 
-Puedes usar Postman o cualquier herramienta similar para probar los endpoints de la API. Asegúrate de que el servidor esté corriendo en  `http://localhost:3030`.
+Los endpoints de esta API fueron probados utilizando Postman. Puedes probarlo tú mismo utilizando Postman o una tecnología similar. Asegúrate de que el servidor esté corriendo en  `http://localhost:3030`.
