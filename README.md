@@ -9,7 +9,7 @@ Proyecto de **administración de presupuesto personal!** Esta API te ayuda a man
     
     -   **Endpoint:**  `POST /api/envelopes`
     -   **Descripción:**  Añade un nuevo sobre de presupuesto con un título y un presupuesto inicial.
-    -   **Parámetros del cuerpo:**
+    -   **Parámetros del cuerpo json:**
         -   `title`: (String) El nombre del sobre.
         -   `budget`: (Number) La cantidad de dinero inicial para el sobre.
 -   **2. Obtener Todos los Sobres**
