@@ -7,6 +7,6 @@ router.get('/envelopes', getAllEnvelopes);
 router.get('/envelopes/:id', getEnvelopeById);
 router.put('/envelopes/:id', updateEnvelope);
 router.delete('/envelopes/:id', deleteEnvelope);
-router.put('/envelopes/transfer/:from/:to', transferFunds); 
+router.post('/envelopes/transfer/:from/:to', transferFunds);
 
 module.exports = router;
